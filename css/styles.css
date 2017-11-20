@@ -45,7 +45,7 @@ nav .navOffset {
 .content {
   position: relative;
   top: 70px;
-  background-color: dodgerblue;
+  background-color: black;
   display: flex;
   align-items: center;
   flex-direction: column;
